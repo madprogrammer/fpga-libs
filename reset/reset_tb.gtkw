@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.73 (w)1999-2016 BSI
+[*] Fri Sep  2 19:35:31 2016
+[*]
+[dumpfile] "/home/sergey/source/hwhacking/lib/reset_tb.vcd"
+[dumpfile_mtime] "Fri Sep  2 19:34:45 2016"
+[dumpfile_size] 597
+[savefile] "/home/sergey/source/hwhacking/lib/reset_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-17.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 217
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 145
+@28
+reset_tb.clk
+reset_tb.en
+reset_tb.rst_out
+[pattern_trace] 1
+[pattern_trace] 0
